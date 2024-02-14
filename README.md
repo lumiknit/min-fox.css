@@ -19,3 +19,4 @@ Then, just copy `userChrome.css` into your `chrome` directory in your profile.
 ## Notes
 
 - This configuration is tested only on macOS. With other OSs, you may need change some size / padding / background-colors.
+- You may fill hard to drag window since there are no titlebar. Customize toolbar and add gap into the nav-bar.
